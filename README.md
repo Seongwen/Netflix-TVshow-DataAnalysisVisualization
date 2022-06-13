@@ -23,7 +23,7 @@
 본인 외 3인
 
 ## 팀 내 역할
-데이터 분석과 시각화, DB 연동, PPT작성, 발표
+데이터 스크래핑, 데이터 분석과 시각화, DB 연동, PPT 수정
 
 ## 사용 기술
 python(BeautifulSoup, pandas), DBMS
